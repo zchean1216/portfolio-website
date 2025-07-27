@@ -35,12 +35,12 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Final Year ICT Student",
-    location: "Swinburne University, Melbourne, VIC",
+    title: "Freelancer",
+    location: "Remote",
     description:
-      "I am majoring in IT, with previous minors in Management Information Systems and Advertising Technologies. I am eagerly seeking an internship or graduate program before graduating by December 2024.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2022 - present",
+      "I freelanced as a website and mobile application tester, evaluating usability, user experience, and interface design while identifying bugs and collaborating with developers for refinement before release.",
+    icon: React.createElement(FaReact),
+    date: "2022",
   },
   {
     title: "Customer Service Representative",
@@ -48,15 +48,23 @@ export const experiencesData = [
     description:
       "I gained valuable communication and problem-solving skills as a customer service representative at Sunglass Hut and Chatime, engaging with customers and efficiently managing multiple tasks.",
     icon: React.createElement(CgWorkAlt),
-    date: "2023",
+    date: "2023 - 2024",
   },
   {
-    title: "Freelancer",
-    location: "Remote",
+    title: "ICT Graduate",
+    location: "Swinburne University, Melbourne, VIC",
     description:
-      "I freelanced as a website and mobile application tester, evaluating usability, user experience, and interface design while identifying bugs and collaborating with developers for refinement before release.",
-    icon: React.createElement(FaReact),
-    date: "2022 - present",
+      "Graduated with a major in IT, with previous minors in Management Information Systems and Advertising Technologies.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2023 - 2025",
+  },
+  {
+    title: "IT Specialist",
+    location: "Caleb and Brown, Melbourne, VIC",
+    description:
+      "Supporting cybersecurity monitoring and threat prevention across the organisation. Manage device deployment through MDM, handle new hire onboarding and workstation setup, and provide technical support for hardware, software, and network issues. Also involved in IT asset management, automation scripting, and maintaining technical documentation to optimise processes.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2025 - Present",
   },
 ] as const;
 
@@ -86,14 +94,30 @@ export const projectsData = [
 
 export const skillsData = [
   "HTML",
-  "CSS",
+  "CSS", 
   "JavaScript",
   "Node.js",
+  "Python",
+  "Bash Scripting",
   "Git",
   "MongoDB",
   "Express",
   "MySQL",
-  "Python",
+  "Cybersecurity",
+  "Endpoint Detection & Response (EDR)",
+  "JumpCloud Administration",
+  "Mobile Device Management (MDM)",
+  "Apple Business Manager",
+  "Google Admin Console", 
+  "Email Security Platforms",
+  "Automation Scripting",
+  "Technical Documentation",
+  "Hardware Troubleshooting",
+  "Software Troubleshooting",
+  "Network Configuration",
+  "IT Asset Management",
+  "Malware Detection",
+  "System Administration",
   "Multilingual",
   "Customer Service"
 ] as const;
