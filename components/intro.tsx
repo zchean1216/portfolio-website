@@ -62,10 +62,10 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Jayden.</span> I'm a{" "}
-        <span className="font-bold">final-year ICT student</span> with hands-on experience in{" "}
-        <span className="italic">Web Development and Customer Service.</span> I have a personal interest in{" "}
-        <span className="underline">Cloud Computing, AI, and Managing Information Systems.</span> 
+        <span className="font-bold">Yo, I'm Jayden.</span> I'm a{" "}
+        <span className="font-bold">fresh ICT graduate</span> currently working as an IT Specialist at Caleb & Brown, with hands-on experience in{" "}
+        <span className="italic">Web Development, Customer Service, and System Administration.</span> I'm particularly keen on{" "}
+        <span className="underline">Cybersecurity, DevOps, and Software Development.</span>
       </motion.h1>
 
       <motion.div className="flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium"
