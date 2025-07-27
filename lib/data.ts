@@ -44,9 +44,9 @@ export const experiencesData = [
   },
   {
     title: "Customer Service Representative",
-    location: "Chadstone Shopping Centre, Vic",
+    location: "Melbourne, Vic",
     description:
-      "I gained valuable communication and problem-solving skills as a customer service representative at Sunglass Hut and Chatime, engaging with customers and efficiently managing multiple tasks.",
+      "I gained valuable communication and problem-solving skills as a customer service representative at Coach, Sunglass Hut and Chatime, engaging with customers and efficiently managing multiple tasks.",
     icon: React.createElement(CgWorkAlt),
     date: "2023 - 2024",
   },
