@@ -19,19 +19,19 @@ export default function About() {
     >
         <SectionHeading>About me</SectionHeading>
         <p className="mb-3">
-        Hey there! I'm Jayden, a final-year ICT student majoring in <span className="font-medium">Information and Technology</span>. 
-        Previously minoring in <span className="font-medium">Management Information Systems</span> and <span className="font-medium">Advertising Technologies</span>. 
-        When I'm not knee-deep in coursework, you'll find me taking online courses to level up my programming skills. From <span className="font-medium">JavaScript, HTML, CSS, Vue.js, C++, Node.js, MongoDB, MySQL, to AWS</span> — you name it, I’m probably learning it!
+        G'day! I'm Jayden, a fresh ICT graduate with a major in <span className="font-medium">Information and Technology</span>. 
+        I previously completed minors in <span className="font-medium">Management Information Systems</span> and <span className="font-medium">Advertising Technologies</span>. 
+        Currently working as an IT Specialist at Caleb & Brown, where I'm getting hands-on experience with cybersecurity, system administration, and automation. I'm always keen to learn new tech as I've been working with <span className="font-medium">JavaScript, HTML, CSS, Vue.js, Python, Bash scripting, JumpCloud, and various cybersecurity tools</span>, basically anything that helps me grow in the IT field!
         </p>
 
         <p className="mb-3">
-        I am all about turning theory into practice by building projects, though I know there's always room for growth. As I gear up for graduation this <span className="italic">December 2024</span>, 
-        I am on the lookout for a <span className="underline">graduate program or internship</span> to get some real-world IT experience. 
-        Besides hitting the courses, I've been working at <span className="font-medium">Chatime, Sunglass Hut, and Happytel </span>in Australia to support my living expenses. 
+        During my studies, I worked a fair dinkum variety of part-time jobs to support myself. I started out washing dishes, then moved up to kitchen hand work, before getting into food and beverage roles at <span className="font-medium">Chatime and Delaware North stadiums</span>. 
+        From there, I transitioned into retail at <span className="font-medium">Sunglass Hut</span> and even did some coaching work. Each of these jobs taught me something different - from working under pressure in busy kitchens to delivering great customer service in retail, and developing communication skills through coaching. 
+        It's been quite the journey, and I reckon all these experiences have made me more well-rounded and better at working with people from all walks of life.
         </p>
 
         <p>
-        <span className="font-medium">Fun fact: </span> I am multilingual! I can chat in <span className="font-medium">English, Mandarin, Malay, and Cantonese</span>, thanks to my <span className="underline">Malaysian</span> roots. When I’m not coding, I love <span className="italic">dancing, watching movies, and snapping aesthetic photos</span>. 
+        <span className="font-medium">A bit about me personally: </span> I speak <span className="font-medium">English, Mandarin, Malay, and Cantonese</span> — perks of growing up with <span className="underline">Malaysian</span> heritage! Outside of work and coding, I'm into <span className="italic">dancing, catching films, and taking photos</span> (always on the hunt for that perfect shot). 
         I am eager to learn, ready to tackle challenges, and hopefully, make my <span className="underline">mark</span> in the IT world!
         </p>
 
